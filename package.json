@@ -1,0 +1,25 @@
+{
+  "name": "see-thru-ingredients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kevin Kim",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cookie": "^0.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.5",
+    "nonce": "^1.0.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sequelize": "^5.12.2"
+  }
+}
